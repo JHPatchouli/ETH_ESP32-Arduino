@@ -15,4 +15,5 @@ void ETH_CUDPS(String RomIP, int RPort, int LPort);
 void ETH_WIFICON(String SSID, String Passwd);
 void ETH_SHOWCF();
 String ETH_GETDATA();
+void SerialtoSerial1();
 #endif
